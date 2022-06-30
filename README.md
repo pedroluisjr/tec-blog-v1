@@ -1,1 +1,2 @@
-# tec-blog-v1
+# TecBlog v1
+Meu primeiro blog.
